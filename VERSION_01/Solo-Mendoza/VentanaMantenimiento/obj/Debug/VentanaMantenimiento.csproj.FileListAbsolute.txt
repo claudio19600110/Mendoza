@@ -1,0 +1,9 @@
+C:\Users\Demo\Desktop\Solo-Mendoza\VentanaMantenimiento\bin\Debug\VentanaMantenimiento.exe.config
+C:\Users\Demo\Desktop\Solo-Mendoza\VentanaMantenimiento\bin\Debug\VentanaMantenimiento.exe
+C:\Users\Demo\Desktop\Solo-Mendoza\VentanaMantenimiento\bin\Debug\VentanaMantenimiento.pdb
+C:\Users\Demo\Desktop\Solo-Mendoza\VentanaMantenimiento\obj\Debug\VentanaMantenimiento.Properties.Resources.resources
+C:\Users\Demo\Desktop\Solo-Mendoza\VentanaMantenimiento\obj\Debug\VentanaMantenimiento.csproj.GenerateResource.cache
+C:\Users\Demo\Desktop\Solo-Mendoza\VentanaMantenimiento\obj\Debug\VentanaMantenimiento.csproj.CoreCompileInputs.cache
+C:\Users\Demo\Desktop\Solo-Mendoza\VentanaMantenimiento\obj\Debug\VentanaMantenimiento.exe
+C:\Users\Demo\Desktop\Solo-Mendoza\VentanaMantenimiento\obj\Debug\VentanaMantenimiento.pdb
+C:\Users\Demo\Desktop\Solo-Mendoza\VentanaMantenimiento\obj\Debug\VentanaMantenimiento.Mantenimiento.resources

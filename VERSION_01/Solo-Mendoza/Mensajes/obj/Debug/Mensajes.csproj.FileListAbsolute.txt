@@ -1,0 +1,10 @@
+C:\Users\Demo\Desktop\Solo-Mendoza\Mensajes\bin\Debug\Mensajes.exe.config
+C:\Users\Demo\Desktop\Solo-Mendoza\Mensajes\bin\Debug\Mensajes.exe
+C:\Users\Demo\Desktop\Solo-Mendoza\Mensajes\bin\Debug\Mensajes.pdb
+C:\Users\Demo\Desktop\Solo-Mendoza\Mensajes\obj\Debug\Mensajes.FormMensaje.resources
+C:\Users\Demo\Desktop\Solo-Mendoza\Mensajes\obj\Debug\Mensajes.Properties.Resources.resources
+C:\Users\Demo\Desktop\Solo-Mendoza\Mensajes\obj\Debug\Mensajes.csproj.GenerateResource.cache
+C:\Users\Demo\Desktop\Solo-Mendoza\Mensajes\obj\Debug\Mensajes.csproj.CoreCompileInputs.cache
+C:\Users\Demo\Desktop\Solo-Mendoza\Mensajes\obj\Debug\Mensajes.exe
+C:\Users\Demo\Desktop\Solo-Mendoza\Mensajes\obj\Debug\Mensajes.pdb
+C:\Users\Demo\Desktop\Solo-Mendoza\Mensajes\obj\Debug\Mensajes.csprojAssemblyReference.cache

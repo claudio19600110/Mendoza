@@ -1,0 +1,15 @@
+C:\Users\Demo\Desktop\Fusion Pagos + Mendoza\Cable Mendoza\bin\x86\Debug\Cable Mendoza.exe.config
+C:\Users\Demo\Desktop\Fusion Pagos + Mendoza\Cable Mendoza\bin\x86\Debug\Cable Mendoza.exe
+C:\Users\Demo\Desktop\Fusion Pagos + Mendoza\Cable Mendoza\bin\x86\Debug\Cable Mendoza.pdb
+C:\Users\Demo\Desktop\Fusion Pagos + Mendoza\Cable Mendoza\bin\x86\Debug\Entidades.dll
+C:\Users\Demo\Desktop\Fusion Pagos + Mendoza\Cable Mendoza\bin\x86\Debug\SesionIniciada.exe
+C:\Users\Demo\Desktop\Fusion Pagos + Mendoza\Cable Mendoza\bin\x86\Debug\Entidades.pdb
+C:\Users\Demo\Desktop\Fusion Pagos + Mendoza\Cable Mendoza\bin\x86\Debug\SesionIniciada.pdb
+C:\Users\Demo\Desktop\Fusion Pagos + Mendoza\Cable Mendoza\bin\x86\Debug\SesionIniciada.exe.config
+C:\Users\Demo\Desktop\Fusion Pagos + Mendoza\Cable Mendoza\obj\x86\Debug\Cable Mendoza.csprojAssemblyReference.cache
+C:\Users\Demo\Desktop\Fusion Pagos + Mendoza\Cable Mendoza\obj\x86\Debug\Cable_Mendoza.Properties.Resources.resources
+C:\Users\Demo\Desktop\Fusion Pagos + Mendoza\Cable Mendoza\obj\x86\Debug\Cable Mendoza.csproj.GenerateResource.cache
+C:\Users\Demo\Desktop\Fusion Pagos + Mendoza\Cable Mendoza\obj\x86\Debug\Cable Mendoza.csproj.CoreCompileInputs.cache
+C:\Users\Demo\Desktop\Fusion Pagos + Mendoza\Cable Mendoza\obj\x86\Debug\Cable Mendoza.csproj.CopyComplete
+C:\Users\Demo\Desktop\Fusion Pagos + Mendoza\Cable Mendoza\obj\x86\Debug\Cable Mendoza.exe
+C:\Users\Demo\Desktop\Fusion Pagos + Mendoza\Cable Mendoza\obj\x86\Debug\Cable Mendoza.pdb

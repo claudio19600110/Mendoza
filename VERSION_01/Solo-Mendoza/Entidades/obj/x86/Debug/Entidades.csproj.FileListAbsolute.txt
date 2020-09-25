@@ -1,0 +1,6 @@
+C:\Users\Demo\Desktop\Fusion Pagos + Mendoza\Entidades\bin\x86\Debug\Entidades.dll
+C:\Users\Demo\Desktop\Fusion Pagos + Mendoza\Entidades\bin\x86\Debug\Entidades.pdb
+C:\Users\Demo\Desktop\Fusion Pagos + Mendoza\Entidades\obj\x86\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Demo\Desktop\Fusion Pagos + Mendoza\Entidades\obj\x86\Debug\Entidades.dll
+C:\Users\Demo\Desktop\Fusion Pagos + Mendoza\Entidades\obj\x86\Debug\Entidades.pdb
+C:\Users\Demo\Desktop\Fusion Pagos + Mendoza\Entidades\obj\x86\Debug\Entidades.csprojAssemblyReference.cache

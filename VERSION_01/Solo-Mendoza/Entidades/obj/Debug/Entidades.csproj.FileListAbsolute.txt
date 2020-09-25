@@ -1,0 +1,28 @@
+C:\Users\Software - PC\Desktop\Archivos Matias\Fusion Pagos + Mendoza\Entidades\bin\Debug\Entidades.dll
+C:\Users\Software - PC\Desktop\Archivos Matias\Fusion Pagos + Mendoza\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Software - PC\Desktop\Archivos Matias\Fusion Pagos + Mendoza\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Software - PC\Desktop\Archivos Matias\Fusion Pagos + Mendoza\Entidades\obj\Debug\Entidades.dll
+C:\Users\Software - PC\Desktop\Archivos Matias\Fusion Pagos + Mendoza\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Software - PC\Desktop\Fusion Pagos + Mendoza\Entidades\bin\Debug\Entidades.dll
+C:\Users\Software - PC\Desktop\Fusion Pagos + Mendoza\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Software - PC\Desktop\Fusion Pagos + Mendoza\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\Software - PC\Desktop\Fusion Pagos + Mendoza\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Software - PC\Desktop\Fusion Pagos + Mendoza\Entidades\obj\Debug\Entidades.dll
+C:\Users\Software - PC\Desktop\Fusion Pagos + Mendoza\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Demo\Desktop\Fusion Pagos + Mendoza\Entidades\bin\Debug\Entidades.dll
+C:\Users\Demo\Desktop\Fusion Pagos + Mendoza\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Demo\Desktop\Fusion Pagos + Mendoza\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Demo\Desktop\Fusion Pagos + Mendoza\Entidades\obj\Debug\Entidades.dll
+C:\Users\Demo\Desktop\Fusion Pagos + Mendoza\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Demo\Desktop\Fusion Pagos + Mendoza\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\Demo\Desktop\Solo Mendoza\Entidades\bin\Debug\Entidades.dll
+C:\Users\Demo\Desktop\Solo Mendoza\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Demo\Desktop\Solo Mendoza\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\Demo\Desktop\Solo Mendoza\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Demo\Desktop\Solo Mendoza\Entidades\obj\Debug\Entidades.dll
+C:\Users\Demo\Desktop\Solo Mendoza\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Demo\Desktop\Solo-Mendoza\Entidades\bin\Debug\Entidades.dll
+C:\Users\Demo\Desktop\Solo-Mendoza\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Demo\Desktop\Solo-Mendoza\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Demo\Desktop\Solo-Mendoza\Entidades\obj\Debug\Entidades.dll
+C:\Users\Demo\Desktop\Solo-Mendoza\Entidades\obj\Debug\Entidades.pdb

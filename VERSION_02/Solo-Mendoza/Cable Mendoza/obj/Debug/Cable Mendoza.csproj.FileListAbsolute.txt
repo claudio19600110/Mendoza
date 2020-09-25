@@ -1,0 +1,108 @@
+C:\Users\Software - PC\Desktop\Archivos Matias\Fusion Pagos + Mendoza\Cable Mendoza\obj\Debug\Cable Mendoza.csprojAssemblyReference.cache
+C:\Users\Software - PC\Desktop\Archivos Matias\Fusion Pagos + Mendoza\Cable Mendoza\obj\Debug\Cable_Mendoza.Properties.Resources.resources
+C:\Users\Software - PC\Desktop\Archivos Matias\Fusion Pagos + Mendoza\Cable Mendoza\obj\Debug\Cable Mendoza.csproj.GenerateResource.cache
+C:\Users\Software - PC\Desktop\Archivos Matias\Fusion Pagos + Mendoza\Cable Mendoza\obj\Debug\Cable Mendoza.csproj.CoreCompileInputs.cache
+C:\Users\Software - PC\Desktop\Archivos Matias\Fusion Pagos + Mendoza\Cable Mendoza\bin\Debug\Cable Mendoza.exe.config
+C:\Users\Software - PC\Desktop\Archivos Matias\Fusion Pagos + Mendoza\Cable Mendoza\bin\Debug\Cable Mendoza.exe
+C:\Users\Software - PC\Desktop\Archivos Matias\Fusion Pagos + Mendoza\Cable Mendoza\bin\Debug\Cable Mendoza.pdb
+C:\Users\Software - PC\Desktop\Archivos Matias\Fusion Pagos + Mendoza\Cable Mendoza\bin\Debug\Entidades.dll
+C:\Users\Software - PC\Desktop\Archivos Matias\Fusion Pagos + Mendoza\Cable Mendoza\bin\Debug\SesionIniciada.exe
+C:\Users\Software - PC\Desktop\Archivos Matias\Fusion Pagos + Mendoza\Cable Mendoza\bin\Debug\Entidades.pdb
+C:\Users\Software - PC\Desktop\Archivos Matias\Fusion Pagos + Mendoza\Cable Mendoza\bin\Debug\SesionIniciada.pdb
+C:\Users\Software - PC\Desktop\Archivos Matias\Fusion Pagos + Mendoza\Cable Mendoza\bin\Debug\SesionIniciada.exe.config
+C:\Users\Software - PC\Desktop\Archivos Matias\Fusion Pagos + Mendoza\Cable Mendoza\obj\Debug\Cable Mendoza.csproj.CopyComplete
+C:\Users\Software - PC\Desktop\Archivos Matias\Fusion Pagos + Mendoza\Cable Mendoza\obj\Debug\Cable Mendoza.exe
+C:\Users\Software - PC\Desktop\Archivos Matias\Fusion Pagos + Mendoza\Cable Mendoza\obj\Debug\Cable Mendoza.pdb
+C:\Users\Software - PC\Desktop\Fusion Pagos + Mendoza\Cable Mendoza\bin\Debug\Cable Mendoza.exe.config
+C:\Users\Software - PC\Desktop\Fusion Pagos + Mendoza\Cable Mendoza\bin\Debug\Cable Mendoza.exe
+C:\Users\Software - PC\Desktop\Fusion Pagos + Mendoza\Cable Mendoza\bin\Debug\Cable Mendoza.pdb
+C:\Users\Software - PC\Desktop\Fusion Pagos + Mendoza\Cable Mendoza\bin\Debug\Entidades.dll
+C:\Users\Software - PC\Desktop\Fusion Pagos + Mendoza\Cable Mendoza\bin\Debug\SesionIniciada.exe
+C:\Users\Software - PC\Desktop\Fusion Pagos + Mendoza\Cable Mendoza\bin\Debug\Entidades.pdb
+C:\Users\Software - PC\Desktop\Fusion Pagos + Mendoza\Cable Mendoza\bin\Debug\SesionIniciada.pdb
+C:\Users\Software - PC\Desktop\Fusion Pagos + Mendoza\Cable Mendoza\bin\Debug\SesionIniciada.exe.config
+C:\Users\Software - PC\Desktop\Fusion Pagos + Mendoza\Cable Mendoza\obj\Debug\Cable Mendoza.csprojAssemblyReference.cache
+C:\Users\Software - PC\Desktop\Fusion Pagos + Mendoza\Cable Mendoza\obj\Debug\Cable_Mendoza.Properties.Resources.resources
+C:\Users\Software - PC\Desktop\Fusion Pagos + Mendoza\Cable Mendoza\obj\Debug\Cable Mendoza.csproj.GenerateResource.cache
+C:\Users\Software - PC\Desktop\Fusion Pagos + Mendoza\Cable Mendoza\obj\Debug\Cable Mendoza.csproj.CoreCompileInputs.cache
+C:\Users\Software - PC\Desktop\Fusion Pagos + Mendoza\Cable Mendoza\obj\Debug\Cable Mendoza.csproj.CopyComplete
+C:\Users\Software - PC\Desktop\Fusion Pagos + Mendoza\Cable Mendoza\obj\Debug\Cable Mendoza.exe
+C:\Users\Software - PC\Desktop\Fusion Pagos + Mendoza\Cable Mendoza\obj\Debug\Cable Mendoza.pdb
+C:\Users\Demo\Desktop\Fusion Pagos + Mendoza\Cable Mendoza\bin\Debug\Cable Mendoza.exe.config
+C:\Users\Demo\Desktop\Fusion Pagos + Mendoza\Cable Mendoza\bin\Debug\Cable Mendoza.exe
+C:\Users\Demo\Desktop\Fusion Pagos + Mendoza\Cable Mendoza\bin\Debug\Cable Mendoza.pdb
+C:\Users\Demo\Desktop\Fusion Pagos + Mendoza\Cable Mendoza\bin\Debug\Entidades.dll
+C:\Users\Demo\Desktop\Fusion Pagos + Mendoza\Cable Mendoza\bin\Debug\SesionIniciada.exe
+C:\Users\Demo\Desktop\Fusion Pagos + Mendoza\Cable Mendoza\bin\Debug\Entidades.pdb
+C:\Users\Demo\Desktop\Fusion Pagos + Mendoza\Cable Mendoza\bin\Debug\SesionIniciada.pdb
+C:\Users\Demo\Desktop\Fusion Pagos + Mendoza\Cable Mendoza\bin\Debug\SesionIniciada.exe.config
+C:\Users\Demo\Desktop\Fusion Pagos + Mendoza\Cable Mendoza\obj\Debug\Cable Mendoza.csprojAssemblyReference.cache
+C:\Users\Demo\Desktop\Fusion Pagos + Mendoza\Cable Mendoza\obj\Debug\Cable_Mendoza.Properties.Resources.resources
+C:\Users\Demo\Desktop\Fusion Pagos + Mendoza\Cable Mendoza\obj\Debug\Cable Mendoza.csproj.GenerateResource.cache
+C:\Users\Demo\Desktop\Fusion Pagos + Mendoza\Cable Mendoza\obj\Debug\Cable Mendoza.csproj.CoreCompileInputs.cache
+C:\Users\Demo\Desktop\Fusion Pagos + Mendoza\Cable Mendoza\obj\Debug\Cable Mendoza.csproj.CopyComplete
+C:\Users\Demo\Desktop\Fusion Pagos + Mendoza\Cable Mendoza\obj\Debug\Cable Mendoza.exe
+C:\Users\Demo\Desktop\Fusion Pagos + Mendoza\Cable Mendoza\obj\Debug\Cable Mendoza.pdb
+C:\Users\Demo\Desktop\Solo Mendoza\Cable Mendoza\bin\Debug\Cable Mendoza.exe.config
+C:\Users\Demo\Desktop\Solo Mendoza\Cable Mendoza\bin\Debug\Cable Mendoza.exe
+C:\Users\Demo\Desktop\Solo Mendoza\Cable Mendoza\bin\Debug\Cable Mendoza.pdb
+C:\Users\Demo\Desktop\Solo Mendoza\Cable Mendoza\bin\Debug\Entidades.dll
+C:\Users\Demo\Desktop\Solo Mendoza\Cable Mendoza\bin\Debug\SesionIniciada.exe
+C:\Users\Demo\Desktop\Solo Mendoza\Cable Mendoza\bin\Debug\Entidades.pdb
+C:\Users\Demo\Desktop\Solo Mendoza\Cable Mendoza\bin\Debug\SesionIniciada.pdb
+C:\Users\Demo\Desktop\Solo Mendoza\Cable Mendoza\bin\Debug\SesionIniciada.exe.config
+C:\Users\Demo\Desktop\Solo Mendoza\Cable Mendoza\obj\Debug\Cable Mendoza.csprojAssemblyReference.cache
+C:\Users\Demo\Desktop\Solo Mendoza\Cable Mendoza\obj\Debug\Cable_Mendoza.Properties.Resources.resources
+C:\Users\Demo\Desktop\Solo Mendoza\Cable Mendoza\obj\Debug\Cable Mendoza.csproj.GenerateResource.cache
+C:\Users\Demo\Desktop\Solo Mendoza\Cable Mendoza\obj\Debug\Cable Mendoza.csproj.CoreCompileInputs.cache
+C:\Users\Demo\Desktop\Solo Mendoza\Cable Mendoza\obj\Debug\Cable Mendoza.csproj.CopyComplete
+C:\Users\Demo\Desktop\Solo Mendoza\Cable Mendoza\obj\Debug\Cable Mendoza.exe
+C:\Users\Demo\Desktop\Solo Mendoza\Cable Mendoza\obj\Debug\Cable Mendoza.pdb
+C:\Users\Demo\Desktop\Solo-Mendoza\Cable Mendoza\bin\Debug\Cable Mendoza.exe.config
+C:\Users\Demo\Desktop\Solo-Mendoza\Cable Mendoza\bin\Debug\Cable Mendoza.exe
+C:\Users\Demo\Desktop\Solo-Mendoza\Cable Mendoza\bin\Debug\Cable Mendoza.pdb
+C:\Users\Demo\Desktop\Solo-Mendoza\Cable Mendoza\bin\Debug\Entidades.dll
+C:\Users\Demo\Desktop\Solo-Mendoza\Cable Mendoza\bin\Debug\SesionIniciada.exe
+C:\Users\Demo\Desktop\Solo-Mendoza\Cable Mendoza\bin\Debug\Entidades.pdb
+C:\Users\Demo\Desktop\Solo-Mendoza\Cable Mendoza\bin\Debug\SesionIniciada.pdb
+C:\Users\Demo\Desktop\Solo-Mendoza\Cable Mendoza\bin\Debug\SesionIniciada.exe.config
+C:\Users\Demo\Desktop\Solo-Mendoza\Cable Mendoza\obj\Debug\Cable Mendoza.csprojAssemblyReference.cache
+C:\Users\Demo\Desktop\Solo-Mendoza\Cable Mendoza\obj\Debug\Cable_Mendoza.Properties.Resources.resources
+C:\Users\Demo\Desktop\Solo-Mendoza\Cable Mendoza\obj\Debug\Cable Mendoza.csproj.GenerateResource.cache
+C:\Users\Demo\Desktop\Solo-Mendoza\Cable Mendoza\obj\Debug\Cable Mendoza.csproj.CoreCompileInputs.cache
+C:\Users\Demo\Desktop\Solo-Mendoza\Cable Mendoza\obj\Debug\Cable Mendoza.csproj.CopyComplete
+C:\Users\Demo\Desktop\Solo-Mendoza\Cable Mendoza\obj\Debug\Cable Mendoza.exe
+C:\Users\Demo\Desktop\Solo-Mendoza\Cable Mendoza\obj\Debug\Cable Mendoza.pdb
+C:\Users\Demo\Desktop\Solo-Mendoza\Cable Mendoza\bin\Debug\PrinterTG2480H.dll
+C:\Users\Demo\Desktop\Solo-Mendoza\Cable Mendoza\bin\Debug\PrinterTG2480H.pdb
+C:\Users\Demo\Desktop\Solo-Mendoza\Cable Mendoza\bin\Debug\Mensajes.exe
+C:\Users\Demo\Desktop\Solo-Mendoza\Cable Mendoza\bin\Debug\Mensajes.pdb
+C:\Users\Demo\Desktop\Solo-Mendoza\Cable Mendoza\bin\Debug\Mensajes.exe.config
+C:\Users\Demo\Desktop\Solo-Mendoza\Cable Mendoza\obj\Debug\Cable_Mendoza.Inicio.resources
+C:\Users\Demo\Desktop\Solo-Mendoza\Cable Mendoza\bin\Debug\VentanaMantenimiento.exe
+C:\Users\Demo\Desktop\Solo-Mendoza\Cable Mendoza\bin\Debug\VentanaMantenimiento.pdb
+C:\Users\Demo\Desktop\Solo-Mendoza\Cable Mendoza\bin\Debug\VentanaMantenimiento.exe.config
+C:\Users\CoolPay01\Desktop\Mendoza\Solo-Mendoza\Cable Mendoza\bin\Debug\Cable Mendoza.exe.config
+C:\Users\CoolPay01\Desktop\Mendoza\Solo-Mendoza\Cable Mendoza\bin\Debug\Cable Mendoza.exe
+C:\Users\CoolPay01\Desktop\Mendoza\Solo-Mendoza\Cable Mendoza\bin\Debug\Cable Mendoza.pdb
+C:\Users\CoolPay01\Desktop\Mendoza\Solo-Mendoza\Cable Mendoza\bin\Debug\Entidades.dll
+C:\Users\CoolPay01\Desktop\Mendoza\Solo-Mendoza\Cable Mendoza\bin\Debug\Mensajes.exe
+C:\Users\CoolPay01\Desktop\Mendoza\Solo-Mendoza\Cable Mendoza\bin\Debug\PrinterTG2480H.dll
+C:\Users\CoolPay01\Desktop\Mendoza\Solo-Mendoza\Cable Mendoza\bin\Debug\SesionIniciada.exe
+C:\Users\CoolPay01\Desktop\Mendoza\Solo-Mendoza\Cable Mendoza\bin\Debug\Entidades.pdb
+C:\Users\CoolPay01\Desktop\Mendoza\Solo-Mendoza\Cable Mendoza\bin\Debug\Mensajes.pdb
+C:\Users\CoolPay01\Desktop\Mendoza\Solo-Mendoza\Cable Mendoza\bin\Debug\Mensajes.exe.config
+C:\Users\CoolPay01\Desktop\Mendoza\Solo-Mendoza\Cable Mendoza\bin\Debug\PrinterTG2480H.pdb
+C:\Users\CoolPay01\Desktop\Mendoza\Solo-Mendoza\Cable Mendoza\bin\Debug\SesionIniciada.pdb
+C:\Users\CoolPay01\Desktop\Mendoza\Solo-Mendoza\Cable Mendoza\bin\Debug\SesionIniciada.exe.config
+C:\Users\CoolPay01\Desktop\Mendoza\Solo-Mendoza\Cable Mendoza\obj\Debug\Cable Mendoza.csprojAssemblyReference.cache
+C:\Users\CoolPay01\Desktop\Mendoza\Solo-Mendoza\Cable Mendoza\obj\Debug\Cable_Mendoza.Inicio.resources
+C:\Users\CoolPay01\Desktop\Mendoza\Solo-Mendoza\Cable Mendoza\obj\Debug\Cable_Mendoza.Properties.Resources.resources
+C:\Users\CoolPay01\Desktop\Mendoza\Solo-Mendoza\Cable Mendoza\obj\Debug\Cable Mendoza.csproj.GenerateResource.cache
+C:\Users\CoolPay01\Desktop\Mendoza\Solo-Mendoza\Cable Mendoza\obj\Debug\Cable Mendoza.csproj.CoreCompileInputs.cache
+C:\Users\CoolPay01\Desktop\Mendoza\Solo-Mendoza\Cable Mendoza\obj\Debug\Cable Mendoza.csproj.CopyComplete
+C:\Users\CoolPay01\Desktop\Mendoza\Solo-Mendoza\Cable Mendoza\obj\Debug\Cable Mendoza.exe
+C:\Users\CoolPay01\Desktop\Mendoza\Solo-Mendoza\Cable Mendoza\obj\Debug\Cable Mendoza.pdb
+C:\Users\CoolPay01\Desktop\Mendoza\Solo-Mendoza\Cable Mendoza\bin\Debug\VentanaMantenimiento.exe
+C:\Users\CoolPay01\Desktop\Mendoza\Solo-Mendoza\Cable Mendoza\bin\Debug\VentanaMantenimiento.pdb
+C:\Users\CoolPay01\Desktop\Mendoza\Solo-Mendoza\Cable Mendoza\bin\Debug\VentanaMantenimiento.exe.config
